@@ -1,0 +1,4 @@
+#A list of channel names to listen on
+channels = ["mod:example"]
+#If true, all channels will be accepted regardless of the list
+acceptAllChannels = true

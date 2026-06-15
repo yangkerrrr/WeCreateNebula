@@ -1,0 +1,17 @@
+{
+  "required_items": [
+    "minecraft:diamond",
+    "minecraft:emerald",
+    "minecraft:gold_ingot",
+    "minecraft:iron_ingot",
+    "minecraft:lapis_lazuli",
+    "minecraft:redstone",
+    "minecraft:coal",
+    "minecraft:copper_ingot",
+    "minecraft:netherite_ingot",
+    "minecraft:quartz"
+  ],
+  "reward_item": "minecraft:diamond_block",
+  "effect_particle": "minecraft:happy_villager",
+  "effect_sound": "minecraft:entity.player.levelup"
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///E:/!gitrepos2/Nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "v14",
+    "name": "WeCreateSMP (Minecraft 1.21.1)",
+    "description": "WeCreateSMP Running Minecraft 1.21.1 (NeoForge v21.1.233)",
+    "icon": "https://clips.yingnetwork.online/u/wecreateiconjpg.png",
+    "address": "wc.yingnetwork.online",
+    "discord": {
+      "shortId": "1499902426323353640",
+      "largeImageText": "Playing on WeCreateSMP",
+      "largeImageKey": "logo"
+    },
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "neoforge": {
+    "version": "21.1.233"
+  },
+  "untrackedFiles": []
+}

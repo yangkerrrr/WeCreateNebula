@@ -1,0 +1,38 @@
+type = user_variables
+
+variable {
+  name = yinguuid
+  value = {"banned":0,"discord_uuid":null,"first_seen":"2026-06-15T13:34:42.769886Z","last_ip":"102.132.196.147","last_seen":"2026-06-15T13:34:42.769886Z","mc_username":"Yangggkreee","notes":null,"strikes":0,"yind_uuid":"46945ad4-1b81-4d4b-b644-1bd1b90a4b03"}
+  reset_on_launch = false
+}
+
+variable {
+  name = voting3
+  value = soon
+  reset_on_launch = false
+}
+
+variable {
+  name = apikey
+  value = supersecretkeyforwc
+  reset_on_launch = false
+}
+
+variable {
+  name = voting2
+  value = soon
+  reset_on_launch = false
+}
+
+variable {
+  name = voting1
+  value = https://www.createmodservers.com/server/we-create-smp-2bf89454
+  reset_on_launch = true
+}
+
+variable {
+  name = latest
+  value = true
+  reset_on_launch = true
+}
+

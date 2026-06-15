@@ -1,0 +1,38 @@
+type = customizablemenus
+
+net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
+}
+
+net.minecraft.client.gui.screens.worldselection.SelectWorldScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+top.theillusivec4.curios.client.gui.CuriosScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
+}
+
+net.neoforged.neoforge.client.gui.ModMismatchDisconnectedScreen {
+}
+
+net.minecraft.client.gui.screens.debug.GameModeSwitcherScreen {
+}
+
+net.minecraft.client.gui.screens.options.OptionsScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
+}
+
+de.keksuccino.spiffyhud.customization.SpiffyOverlayScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
+}
+
+de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
+}
+
