@@ -1,6 +1,6 @@
 {
   "version": "14",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "https://raw.githubusercontent.com/yangkerrrr/WeCreateNebula/refs/heads/main/news.json",
   "discord": {
     "clientId": "1499902426323353640",
     "smallImageText": "wc",
